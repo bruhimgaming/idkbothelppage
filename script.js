@@ -4,9 +4,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Replace with your actual commands
   const commands = [
-    "/help - Show all commands",
-    "/ping - Check if the bot is alive",
-    "/about - Info about this bot"
+    ";hello - this was a test thing",
+    ";credits - shows the credits",
+    ";time - idk it shows random numbers it was a mistake so i left it in"
   ];
 
   commands.forEach(cmd => {
