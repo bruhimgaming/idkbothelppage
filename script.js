@@ -9,9 +9,9 @@ document.addEventListener("DOMContentLoaded", () => {
     ";credits - shows the credits",
     ";time - idk it shows random numbers it was a mistake so i left it in",
     ";fish - says gulb gulb idk",
-    ";calc - calculator (cant subtract)"
-    ";roll - roll a dice"
-  ";room - only bruh and bensav bitch"
+    ";calc - calculator (cant subtract)",
+    ";roll - roll a dice",
+    ";room - only bruh and bensav bitch"
   ];
 
   commands.forEach(cmd => {
